@@ -27,6 +27,8 @@ jose_bank
 >COMO FAZER DEBUG NO INTELLIJ
 
 
+> (/assets.java/1678809772345.jpeg)
+
 
 
 >Como executar o projeto
