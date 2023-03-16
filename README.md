@@ -29,6 +29,16 @@ jose_bank
 
 ![1678809772345](https://github.com/JoseOl1ve1ra/JAVA_test_bank/blob/master/assets.java/1678809772345.jpeg)
 
+![Dbeaver](https://github.com/JoseOl1ve1ra/JAVA_test_bank/blob/master/assets.java/Dbeaver.png)
+
+![Docker]( https://github.com/JoseOl1ve1ra/JAVA_test_bank/blob/master/assets.java/Docker.png)
+
+![postgresSQL](https://github.com/JoseOl1ve1ra/JAVA_test_bank/blob/master/assets.java/postgresSQL.png)
+
+
+
+
+
 
 
 >Como executar o projeto
