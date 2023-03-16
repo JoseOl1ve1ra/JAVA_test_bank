@@ -27,7 +27,7 @@ jose_bank
 >COMO FAZER DEBUG NO INTELLIJ
 
 
-> (https://github.com/JoseOl1ve1ra/JAVA_test_bank/blob/master/assets.java/1678809772345.jpeg)
+> ![1678809772345] (https://github.com/JoseOl1ve1ra/JAVA_test_bank/blob/master/assets.java/1678809772345.jpeg)
 
 
 
