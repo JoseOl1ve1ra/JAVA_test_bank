@@ -27,7 +27,7 @@ jose_bank
 >COMO FAZER DEBUG NO INTELLIJ
 
 
-> (/assets.java/1678809772345.jpeg)
+> (https://github.com/JoseOl1ve1ra/JAVA_test_bank/tree/master/assets.java)
 
 
 
